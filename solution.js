@@ -38,7 +38,7 @@ function solveTask6() {
 
 function solveTask7() {
     const seventhTask = document.querySelector('#task7');
-    seventhTask.add('new-class');
+    seventhTask.classList.add('new-class');
 }
 
 function solveTask8() {
